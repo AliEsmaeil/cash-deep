@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "rar.cash.beblash",
+      "sha256_cert_fingerprints": [
+        "8A:62:3A:2D:3F:6B:6E:CE:B9:DC:3A:2E:3B:91:6E:71:C8:2A:20:93:F6:FA:90:4D:1E:F7:66:05:E8:40:26:F3"
+      ]
+    }
+  }
+]
